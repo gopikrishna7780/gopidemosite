@@ -1,0 +1,19 @@
+{
+  "name": "day14",
+  "version": "1.0.0",
+  "description": "create api",
+  "main": "gopi.js",
+  "scripts": {
+    "test": "basic npm commands"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "console"
+  ],
+  "author": "gopi",
+  "license": "ISC",
+  "dependencies": {
+    "upper-case": "^3.0.0"
+  }
+}
